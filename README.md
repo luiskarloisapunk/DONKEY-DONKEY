@@ -31,7 +31,7 @@ Pide la dirección de la carpeta donde se tienen las fotos de todos los concepto
 
 
 
-
+------------
 ## Tips
 - Instalar [Python 3.10.x](https://www.python.org/downloads/release/python-31011/ "Python 3.10.x").
 
@@ -42,3 +42,6 @@ Pide la dirección de la carpeta donde se tienen las fotos de todos los concepto
 
 - Para instalar los modulos ejecuta `pip install -r requirements.txt` en la dirección de la carpeta (terminal)
 
+
+------------
+***Realizado en conjunto por Humberto Meza y Luis Karlo Villegas***
